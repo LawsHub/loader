@@ -17,7 +17,6 @@ dP'   `Y8b      d'""""""d888'                            8      `888'           
 
 local userId = game.Players.LocalPlayer.UserId
 local blacklist = {
-    912390800, 
 }
 
 for _, id in pairs(blacklist) do
