@@ -73,6 +73,7 @@ local scripts = {
     [79136731857959] = "https://pastebin.com/raw/1uqjX5vF",
 
     -- Blade Ball
+    [16281300371] ="https://pastebin.com/raw/HhuyM2ys",
     [13772394625] = "https://pastebin.com/raw/HhuyM2ys",
 
     -- Slap Battles
