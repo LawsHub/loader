@@ -84,9 +84,9 @@ local scripts = {
     [124596094333302] = "https://gist.githubusercontent.com/LawsHub/54bf779002e240ccbe9658fbe96ce179/raw/45d95f638efb2d26b32d0360f983b3af01efb8c8/gistfile1.txt",
 
     -- Blox Fruits
-    [7449423635] = "https://gist.githubusercontent.com/LawsHub/ffb20bd4070008f4a5d8070d8b83d7f4/raw/92727d4295674a278bd87214b9845c46fbcf8ec4/bf",
-    [4442272183] = "https://gist.githubusercontent.com/LawsHub/ffb20bd4070008f4a5d8070d8b83d7f4/raw/92727d4295674a278bd87214b9845c46fbcf8ec4/bf",
-    [2753915549] = "https://gist.githubusercontent.com/LawsHub/ffb20bd4070008f4a5d8070d8b83d7f4/raw/92727d4295674a278bd87214b9845c46fbcf8ec4/bf",
+    [7449423635] = "https://gist.githubusercontent.com/LawsHub/b97f32d961f740fab36194e3aea42246/raw/416f12a09907067a369190bcb0ea67a303849fee/bf",
+    [4442272183] = "https://gist.githubusercontent.com/LawsHub/b97f32d961f740fab36194e3aea42246/raw/416f12a09907067a369190bcb0ea67a303849fee/bf",
+    [2753915549] = "https://gist.githubusercontent.com/LawsHub/b97f32d961f740fab36194e3aea42246/raw/416f12a09907067a369190bcb0ea67a303849fee/bf",
 
     -- Babft
     [537413528] = "https://pastebin.com/raw/gnLVrsux",
