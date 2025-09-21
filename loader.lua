@@ -77,11 +77,11 @@ local scripts = {
     [13772394625] = "https://pastebin.com/raw/HhuyM2ys",
 
     -- Slap Battles
-    [6403373529] = "https://gist.githubusercontent.com/LawsHub/54bf779002e240ccbe9658fbe96ce179/raw/45d95f638efb2d26b32d0360f983b3af01efb8c8/gistfile1.txt",
-    [9015014224] = "https://gist.githubusercontent.com/LawsHub/54bf779002e240ccbe9658fbe96ce179/raw/45d95f638efb2d26b32d0360f983b3af01efb8c8/gistfile1.txt",
-    [11520107397] = "https://gist.githubusercontent.com/LawsHub/54bf779002e240ccbe9658fbe96ce179/raw/45d95f638efb2d26b32d0360f983b3af01efb8c8/gistfile1.txt",
-    [7234087065] = "https://gist.githubusercontent.com/LawsHub/54bf779002e240ccbe9658fbe96ce179/raw/45d95f638efb2d26b32d0360f983b3af01efb8c8/gistfile1.txt",
-    [124596094333302] = "https://gist.githubusercontent.com/LawsHub/54bf779002e240ccbe9658fbe96ce179/raw/45d95f638efb2d26b32d0360f983b3af01efb8c8/gistfile1.txt",
+	[6403373529] = "https://gist.githubusercontent.com/LawsHub/d565b913700dfc009ed109f8a4a8d4d7/raw/072492846e8e8924d87bb123436e1f439cc2305b/slap",
+	[9015014224] = "https://gist.githubusercontent.com/LawsHub/d565b913700dfc009ed109f8a4a8d4d7/raw/072492846e8e8924d87bb123436e1f439cc2305b/slap",
+	[11520107397] = "https://gist.githubusercontent.com/LawsHub/d565b913700dfc009ed109f8a4a8d4d7/raw/072492846e8e8924d87bb123436e1f439cc2305b/slap",
+	[7234087065] = "https://gist.githubusercontent.com/LawsHub/d565b913700dfc009ed109f8a4a8d4d7/raw/072492846e8e8924d87bb123436e1f439cc2305b/slap",
+	[124596094333302] = "https://gist.githubusercontent.com/LawsHub/d565b913700dfc009ed109f8a4a8d4d7/raw/072492846e8e8924d87bb123436e1f439cc2305b/slap",
 
     -- Blox Fruits
     [7449423635] = "https://gist.githubusercontent.com/LawsHub/b97f32d961f740fab36194e3aea42246/raw/416f12a09907067a369190bcb0ea67a303849fee/bf",
