@@ -31,37 +31,30 @@ setclipboard("https://discord.gg/pMpagSJBuQ")
 
 local scripts = {
     -- Forsaken
-    [18687417158] = "https://raw.githubusercontent.com/hehehe9028/Forsaken/refs/heads/main/LAWSHUB%20FORSAKEN",
+    [18687417158] = "https://pastebin.com/raw/Ud8nYdcT",
 
     -- 99 Nights in the Forest
 	[126509999114328] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-99-nights-in-the-forest/refs/heads/main/LAWSHUB%2099%20nights%20in%20the%20forest",
     [79546208627805] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-99-nights-in-the-forest/refs/heads/main/LAWSHUB%2099%20nights%20in%20the%20forest",
 
     -- My Singing Brainrot
-    [89343390950953] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-my-singing-brainrot/refs/heads/main/LAWSHUB%20my%20singing%20brainrot",
+    [89343390950953] = "hhttps://pastebin.com/raw/Ud8nYdcT",
 
     -- The Strongest Battlegrounds
-    [10449761463] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-the-strongest-battleground/refs/heads/main/LAWSHUB%20the%20strongest%20battleground",
+    [10449761463] = "https://pastebin.com/raw/Ud8nYdcT",
 
     -- Build A Plane
-    [137925884276740] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-BUILD-A-PLANE/refs/heads/main/LAWSHUB%20BUILD%20A%20PLANE",
+    [137925884276740] = "https://pastebin.com/raw/Ud8nYdcT",
 
     -- Brainrot Evolution
-    [111989938562194] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-brainrot-evolution/refs/heads/main/LAWSHUB%20brainrot%20evolution",
+    [111989938562194] = "https://pastebin.com/raw/Ud8nYdcT",
 
     -- Ink Game
-    [125009265613167] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-ink-game/refs/heads/main/LAWSHUB%20ink%20game",
-    [99567941238278] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-ink-game/refs/heads/main/LAWSHUB%20ink%20game",
-
-    -- Brookhaven
-    [4924922222] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-brookhaven/refs/heads/main/LAWSHUB%20Brookhaven",
+    [125009265613167] = "https://pastebin.com/raw/Ud8nYdcT",
+    [99567941238278] = "https://pastebin.com/raw/Ud8nYdcT",
 
     -- Arsenal
     [286090429] = "https://pastebin.com/raw/6fSQpxAC",
-
-    -- DOORS
-	[6839171747] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-DOORS/refs/heads/main/LAWSHUB%20DOORS",
-    [6516141723] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-DOORS/refs/heads/main/LAWSHUB%20DOORS",
 
     -- VolleyBall Legends
     [73956553001240] = "https://pastebin.com/raw/1uqjX5vF",
@@ -90,9 +83,6 @@ local scripts = {
 
     -- Babft
     [537413528] = "https://pastebin.com/raw/gnLVrsux",
-	
-	-- Sab Spawner ( might integrate in sab )
-	[109983668079237] = "https://raw.githubusercontent.com/hehehe9028/LAWSHUB-brainrot-spawner/refs/heads/main/LAWSHUB%20brainrot%20spawner%20visual",
 
 	-- JJS 
 	[9391468976] = "https://pastebin.com/raw/iKH22pUy"
