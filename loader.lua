@@ -34,8 +34,8 @@ local scripts = {
     [18687417158] = "https://pastebin.com/raw/Ud8nYdcT",
 
     -- 99 Nights in the Forest
-	[126509999114328] = "https://gist.githubusercontent.com/LawsHub/054ccc67282cf40fe8772815d6e2d6c7/raw/d1519125138a42581bea31e3bb5c1c65cfe13620/99%2520nights",
-    [79546208627805] = "https://gist.githubusercontent.com/LawsHub/054ccc67282cf40fe8772815d6e2d6c7/raw/d1519125138a42581bea31e3bb5c1c65cfe13620/99%2520nights",
+[126509999114328] = "https://gist.githubusercontent.com/LawsHub/054ccc67282cf40fe8772815d6e2d6c7/raw/5fc60062a9061d63eaa1fb1b962081663b1a079a/99%2520nights",
+    [79546208627805] = "https://gist.githubusercontent.com/LawsHub/054ccc67282cf40fe8772815d6e2d6c7/raw/5fc60062a9061d63eaa1fb1b962081663b1a079a/99%2520nights",
 
     -- My Singing Brainrot
     [89343390950953] = "hhttps://pastebin.com/raw/Ud8nYdcT",
