@@ -85,7 +85,11 @@ local scripts = {
     [537413528] = "https://pastebin.com/raw/gnLVrsux",
 
 	-- JJS 
-	[9391468976] = "https://pastebin.com/raw/iKH22pUy"
+	[9391468976] = "https://pastebin.com/raw/iKH22pUy",
+
+	-- SAB
+	[109983668079237] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Sab",
+	[96342491571673] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Sab",
 	
 }
 
