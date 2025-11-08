@@ -31,6 +31,8 @@ end
 local scripts = {
 	-- Fisch
 	[16732694052] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Fisch",
+	[131716211654599] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Fisch",
+	
     -- Forsaken
     [18687417158] = "https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/forsaken.lua",
 
