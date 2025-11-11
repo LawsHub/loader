@@ -1,0 +1,63 @@
+LAWSHUB CLOSED SOFTWARE LICENSE
+
+Version 1.0 — Last Updated: 2025
+
+Copyright (c) 2025, LawsHub Team
+All Rights Reserved.
+
+This software is provided “as is” without warranty of any kind. The copyright holders are not liable for any damages resulting from use or misuse of this software.
+
+By using, executing, redistributing, showcasing, or interacting with this project, you agree to the terms listed below.
+
+1. Definitions
+
+LawsHub CONFIGURATION FILE: A customization file created using the LawsHub script API.
+
+SOFTWARE: Any file, script, feature, module, or configuration included in this repository.
+
+REDISTRIBUTION: Sharing the Software or code derived from it, including forks, re-uploads, or compiled variants.
+
+2. Usage
+
+You MAY create personal configuration files for your own use.
+
+You MAY NOT share your configuration publicly unless approved by the LawsHub Team.
+
+If you want to share a configuration, it MUST be submitted to the LawsHub Team to be uploaded to this repository.
+
+3. Redistribution Restrictions
+
+The Software may not be uploaded, mirrored, rehosted, or distributed anywhere outside of this official GitHub repository without explicit written permission.
+
+Modified versions of this Software may not be distributed or showcased.
+
+Forking is allowed only if the fork remains private and adheres to this license.
+
+Public forks, public modifications, or re-uploads are strictly prohibited.
+
+Selling or profiting from this Software in any form is prohibited.
+
+4. Attribution
+
+Any allowed use or showcase must include the following credit string:
+
+LawsHub — https://github.com/<YourGitHub>/LawsHub
+
+
+Removing or hiding credit is considered license violation.
+
+5. Showcasing / Media Rules
+
+Recording, streaming, or presenting this Software is allowed only if you are using the official version.
+
+Showcasing modified or private versions of this Software is not allowed.
+
+6. Authorized Individuals
+
+Only contributors explicitly listed in the repository README are permitted to distribute, approve uploads, or authorize redistribution.
+
+7. Liability
+
+This Software is provided without warranty. You are responsible for any damages caused through use of this Software.
+
+By using this , you accept the terms.
