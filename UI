@@ -94,7 +94,7 @@ end
 
 local OverHubLibrary = {
 	Flags = {},
-	Theme= {
+	Theme = {
 		Default = {
 			-- Main Text & Background
 			TextColor                  = Color3.fromRGB(120, 120, 120),  -- #E5E7EB (Tailwind Gray-200)
