@@ -13,20 +13,7 @@ dP'   `Y8b      d'""""""d888'                            8      `888'           
                                                                                                                                                       
 ]]--
 
--- nothing to steal here . GTFO
-
-
-local userId = game.Players.LocalPlayer.UserId
-local blacklist = {
-	1497205495
-}
-
-for _, id in pairs(blacklist) do
-    if userId == id then
-        game.Players.LocalPlayer:Kick("You have been Blacklisted from using Laws Hub.")
-        break
-    end
-end
+-- GTFO
 
 local scripts = {
 	-- Fisch
