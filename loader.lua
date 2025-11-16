@@ -83,8 +83,8 @@ local scripts = {
 	[96342491571673] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Sab",
 
 	-- Dead Rails
-	[116495829188952] = "https://pastebin.com/raw/WQXFaTeF"
-	[70876832253163] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Dead%20Rails"
+	[116495829188952] = "https://pastebin.com/raw/WQXFaTeF",
+	[70876832253163] = "https://raw.githubusercontent.com/LawsHub/loader/refs/heads/main/Dead%20Rails",
 }
 
 local url = scripts[game.PlaceId]
